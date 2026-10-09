@@ -6,7 +6,7 @@
 
 After signing in, open **Dashboard → API Tokens** to create your API key.
 
-[![Website status](https://img.shields.io/website?url=https%3A%2F%2Ftoapis.com&label=status&color=FF6A00&style=flat-square)](https://toapis.com) [![Discord](https://img.shields.io/badge/chat-discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hvnszCrJ73) [![X](https://img.shields.io/badge/X-%40toapisai-111111?style=flat-square&logo=x)](https://x.com/toapisai) [![GitHub followers](https://img.shields.io/github/followers/ToAPIs-2025?style=flat-square&label=followers&color=FF6A00)](https://github.com/ToAPIs-2025)
+[![Website status](https://img.shields.io/website?url=https%3A%2F%2Ftoapis.com&label=status&color=FF6A00&style=flat-square)](https://toapis.com) [![Discord](https://img.shields.io/badge/chat-discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hvnszCrJ73) [![X](https://img.shields.io/badge/X-%40toapisai-111111?style=flat-square&logo=x)](https://x.com/toapisai) [![Telegram @ToAPIsofficial](https://img.shields.io/badge/Telegram-%40ToAPIsofficial-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ToAPIsofficial)
 
 [![English](https://img.shields.io/badge/English-CURRENT-111111?style=flat-square)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-VIEW-FF6A00?style=flat-square)](README_zh-CN.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-VIEW-FF6A00?style=flat-square)](README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-VIEW-FF6A00?style=flat-square)](README_ko.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-VIEW-FF6A00?style=flat-square)](README_ru.md)
 
