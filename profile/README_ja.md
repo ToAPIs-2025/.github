@@ -4,6 +4,8 @@
 
 [![無料で始める](https://img.shields.io/badge/%E7%84%A1%E6%96%99%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![モデル一覧](https://img.shields.io/badge/%E3%83%A2%E3%83%87%E3%83%AB%E4%B8%80%E8%A6%A7-EXPLORE-D94E00?style=for-the-badge)](https://toapis.com/ja/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![API ドキュメント](https://img.shields.io/badge/API_%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88-READ-1B1B1B?style=for-the-badge)](https://docs.toapis.com/docs/ja/quickstart) [![公式サイト](https://img.shields.io/badge/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88-TOAPIS-FF8B3D?style=for-the-badge)](https://toapis.com/ja?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![料金](https://img.shields.io/badge/%E6%96%99%E9%87%91-COMPARE-242424?style=for-the-badge)](https://toapis.com/ja/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
+ログイン後、**Dashboard → API Tokens** を開いて API キーを作成してください。
+
 [![Website status](https://img.shields.io/website?url=https%3A%2F%2Ftoapis.com&label=status&color=FF6A00&style=flat-square)](https://toapis.com) [![Discord](https://img.shields.io/badge/chat-discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hvnszCrJ73) [![X](https://img.shields.io/badge/X-%40toapisai-111111?style=flat-square&logo=x)](https://x.com/toapisai) [![GitHub followers](https://img.shields.io/github/followers/ToAPIs-2025?style=flat-square&label=followers&color=FF6A00)](https://github.com/ToAPIs-2025)
 
 [![English](https://img.shields.io/badge/English-VIEW-FF6A00?style=flat-square)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-VIEW-FF6A00?style=flat-square)](README_zh-CN.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-CURRENT-111111?style=flat-square)](README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-VIEW-FF6A00?style=flat-square)](README_ko.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-VIEW-FF6A00?style=flat-square)](README_ru.md)
@@ -47,7 +49,7 @@
 
 ## 開発を始める
 
-1. [API キーを作成します。](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+1. [ログイン後、Dashboard → API Tokens で API キーを作成します。](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 2. [モデルを選び、現在の料金を確認します。](https://toapis.com/ja/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 3. [クイックスタートに沿ってテキスト・画像・動画 API を利用します。](https://docs.toapis.com/docs/ja/quickstart)
 

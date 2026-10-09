@@ -4,6 +4,8 @@
 
 [![НАЧАТЬ БЕСПЛАТНО](https://img.shields.io/badge/%D0%9D%D0%90%D0%A7%D0%90%D0%A2%D0%AC_%D0%91%D0%95%D0%A1%D0%9F%D0%9B%D0%90%D0%A2%D0%9D%D0%9E-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![ВСЕ МОДЕЛИ](https://img.shields.io/badge/%D0%92%D0%A1%D0%95_%D0%9C%D0%9E%D0%94%D0%95%D0%9B%D0%98-EXPLORE-D94E00?style=for-the-badge)](https://toapis.com/ru/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![ДОКУМЕНТАЦИЯ](https://img.shields.io/badge/%D0%94%D0%9E%D0%9A%D0%A3%D0%9C%D0%95%D0%9D%D0%A2%D0%90%D0%A6%D0%98%D0%AF-READ-1B1B1B?style=for-the-badge)](https://docs.toapis.com/docs/ru/quickstart) [![САЙТ](https://img.shields.io/badge/%D0%A1%D0%90%D0%99%D0%A2-TOAPIS-FF8B3D?style=for-the-badge)](https://toapis.com/ru?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![ЦЕНЫ](https://img.shields.io/badge/%D0%A6%D0%95%D0%9D%D0%AB-COMPARE-242424?style=for-the-badge)](https://toapis.com/ru/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
+После входа откройте **Dashboard → API Tokens** и создайте API-ключ.
+
 [![Website status](https://img.shields.io/website?url=https%3A%2F%2Ftoapis.com&label=status&color=FF6A00&style=flat-square)](https://toapis.com) [![Discord](https://img.shields.io/badge/chat-discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hvnszCrJ73) [![X](https://img.shields.io/badge/X-%40toapisai-111111?style=flat-square&logo=x)](https://x.com/toapisai) [![GitHub followers](https://img.shields.io/github/followers/ToAPIs-2025?style=flat-square&label=followers&color=FF6A00)](https://github.com/ToAPIs-2025)
 
 [![English](https://img.shields.io/badge/English-VIEW-FF6A00?style=flat-square)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-VIEW-FF6A00?style=flat-square)](README_zh-CN.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-VIEW-FF6A00?style=flat-square)](README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-VIEW-FF6A00?style=flat-square)](README_ko.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-CURRENT-111111?style=flat-square)](README_ru.md)
@@ -47,7 +49,7 @@
 
 ## Начните разработку
 
-1. [Создайте API-ключ.](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+1. [После входа откройте Dashboard → API Tokens и создайте API-ключ.](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 2. [Выберите модель и проверьте текущую цену.](https://toapis.com/ru/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 3. [Следуйте руководству для текстового, графического или видео API.](https://docs.toapis.com/docs/ru/quickstart)
 
