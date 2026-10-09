@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://toapis.com/ko?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-header.png" alt="ToAPIs — Official AI API Gateway" width="100%"></a>
+<a href="https://toapis.com/ko?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-header-ko.png" alt="ToAPIs — 공식 AI API 게이트웨이" width="100%"></a>
 
-[![시작하기](https://img.shields.io/badge/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![전체 모델](https://img.shields.io/badge/%EC%A0%84%EC%B2%B4_%EB%AA%A8%EB%8D%B8-EXPLORE-D94E00?style=for-the-badge)](https://toapis.com/ko/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![API 문서](https://img.shields.io/badge/API_%EB%AC%B8%EC%84%9C-READ-1B1B1B?style=for-the-badge)](https://docs.toapis.com/docs/ko/quickstart) [![공식 사이트](https://img.shields.io/badge/%EA%B3%B5%EC%8B%9D_%EC%82%AC%EC%9D%B4%ED%8A%B8-TOAPIS-FF8B3D?style=for-the-badge)](https://toapis.com/ko?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![요금](https://img.shields.io/badge/%EC%9A%94%EA%B8%88-COMPARE-242424?style=for-the-badge)](https://toapis.com/ko/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+[![무료로 시작](https://img.shields.io/badge/%EB%AC%B4%EB%A3%8C%EB%A1%9C_%EC%8B%9C%EC%9E%91-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![전체 모델](https://img.shields.io/badge/%EC%A0%84%EC%B2%B4_%EB%AA%A8%EB%8D%B8-EXPLORE-D94E00?style=for-the-badge)](https://toapis.com/ko/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![API 문서](https://img.shields.io/badge/API_%EB%AC%B8%EC%84%9C-READ-1B1B1B?style=for-the-badge)](https://docs.toapis.com/docs/ko/quickstart) [![공식 사이트](https://img.shields.io/badge/%EA%B3%B5%EC%8B%9D_%EC%82%AC%EC%9D%B4%ED%8A%B8-TOAPIS-FF8B3D?style=for-the-badge)](https://toapis.com/ko?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![요금](https://img.shields.io/badge/%EC%9A%94%EA%B8%88-COMPARE-242424?style=for-the-badge)](https://toapis.com/ko/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
 [![Website status](https://img.shields.io/website?url=https%3A%2F%2Ftoapis.com&label=status&color=FF6A00&style=flat-square)](https://toapis.com) [![Discord](https://img.shields.io/badge/chat-discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hvnszCrJ73) [![X](https://img.shields.io/badge/X-%40toapisai-111111?style=flat-square&logo=x)](https://x.com/toapisai) [![GitHub followers](https://img.shields.io/github/followers/ToAPIs-2025?style=flat-square&label=followers&color=FF6A00)](https://github.com/ToAPIs-2025)
 
@@ -33,13 +33,13 @@
 
 ## 명확한 요금, 사용량 기반 결제
 
-<a href="https://toapis.com/ko/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-pricing.png" alt="ToAPIs pay-as-you-go pricing for text, image and video" width="100%"></a>
+<a href="https://toapis.com/ko/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-pricing-ko.png" alt="ToAPIs 텍스트·이미지·비디오 사용량 기반 요금" width="100%"></a>
 
 월 구독이 필요하지 않습니다. 모델 선택 전에 최신 요금과 과금 단위를 확인하세요. 실제 요금은 사용자 그룹과 프로모션에 따라 달라질 수 있습니다. [→ 요금](https://toapis.com/ko/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
 <div align="center">
 
-[![시작하기](https://img.shields.io/badge/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![요금](https://img.shields.io/badge/%EC%9A%94%EA%B8%88-VIEW_LIVE_PRICES-1B1B1B?style=for-the-badge)](https://toapis.com/ko/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+[![무료로 시작](https://img.shields.io/badge/%EB%AC%B4%EB%A3%8C%EB%A1%9C_%EC%8B%9C%EC%9E%91-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![요금](https://img.shields.io/badge/%EC%9A%94%EA%B8%88-VIEW_LIVE_PRICES-1B1B1B?style=for-the-badge)](https://toapis.com/ko/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
 </div>
 
@@ -47,7 +47,7 @@
 
 ## 개발 시작하기
 
-1. [API 키를 생성합니다.](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+1. [API 키를 생성합니다.](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 2. [모델을 선택하고 현재 요금을 확인합니다.](https://toapis.com/ko/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 3. [빠른 시작 문서에 따라 텍스트, 이미지 또는 비디오 API를 사용합니다.](https://docs.toapis.com/docs/ko/quickstart)
 

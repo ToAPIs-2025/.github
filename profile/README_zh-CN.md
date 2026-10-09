@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://toapis.com?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-header.png" alt="ToAPIs — Official AI API Gateway" width="100%"></a>
+<a href="https://toapis.com?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-header-zh-CN.png" alt="ToAPIs — 官方 AI API 网关" width="100%"></a>
 
-[![立即开始](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E5%BC%80%E5%A7%8B-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![全部模型](https://img.shields.io/badge/%E5%85%A8%E9%83%A8%E6%A8%A1%E5%9E%8B-EXPLORE-D94E00?style=for-the-badge)](https://toapis.com/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![API 文档](https://img.shields.io/badge/API_%E6%96%87%E6%A1%A3-READ-1B1B1B?style=for-the-badge)](https://docs.toapis.com/docs/cn/quickstart) [![官方网站](https://img.shields.io/badge/%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-TOAPIS-FF8B3D?style=for-the-badge)](https://toapis.com?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![价格](https://img.shields.io/badge/%E4%BB%B7%E6%A0%BC-COMPARE-242424?style=for-the-badge)](https://toapis.com/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+[![免费开始](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E5%BC%80%E5%A7%8B-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![全部模型](https://img.shields.io/badge/%E5%85%A8%E9%83%A8%E6%A8%A1%E5%9E%8B-EXPLORE-D94E00?style=for-the-badge)](https://toapis.com/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![API 文档](https://img.shields.io/badge/API_%E6%96%87%E6%A1%A3-READ-1B1B1B?style=for-the-badge)](https://docs.toapis.com/docs/cn/quickstart) [![官方网站](https://img.shields.io/badge/%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99-TOAPIS-FF8B3D?style=for-the-badge)](https://toapis.com?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![价格](https://img.shields.io/badge/%E4%BB%B7%E6%A0%BC-COMPARE-242424?style=for-the-badge)](https://toapis.com/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
 [![Website status](https://img.shields.io/website?url=https%3A%2F%2Ftoapis.com&label=status&color=FF6A00&style=flat-square)](https://toapis.com) [![Discord](https://img.shields.io/badge/chat-discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hvnszCrJ73) [![X](https://img.shields.io/badge/X-%40toapisai-111111?style=flat-square&logo=x)](https://x.com/toapisai) [![GitHub followers](https://img.shields.io/github/followers/ToAPIs-2025?style=flat-square&label=followers&color=FF6A00)](https://github.com/ToAPIs-2025)
 
@@ -35,13 +35,13 @@
 
 ## 价格清晰，按量付费
 
-<a href="https://toapis.com/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-pricing.png" alt="ToAPIs pay-as-you-go pricing for text, image and video" width="100%"></a>
+<a href="https://toapis.com/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-pricing-zh-CN.png" alt="ToAPIs 文本、图像和视频按量付费说明" width="100%"></a>
 
 无需月度订阅。选模型前可查看实时价格和计费单位；实际价格可能因用户分组与活动而变化。 [→ 价格](https://toapis.com/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
 <div align="center">
 
-[![立即开始](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E5%BC%80%E5%A7%8B-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![价格](https://img.shields.io/badge/%E4%BB%B7%E6%A0%BC-VIEW_LIVE_PRICES-1B1B1B?style=for-the-badge)](https://toapis.com/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+[![免费开始](https://img.shields.io/badge/%E5%85%8D%E8%B4%B9%E5%BC%80%E5%A7%8B-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![价格](https://img.shields.io/badge/%E4%BB%B7%E6%A0%BC-VIEW_LIVE_PRICES-1B1B1B?style=for-the-badge)](https://toapis.com/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
 </div>
 
@@ -49,7 +49,7 @@
 
 ## 开始接入
 
-1. [创建 API Key。](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+1. [创建 API Key。](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 2. [选择模型并查看当前价格。](https://toapis.com/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 3. [根据快速开始文档接入文本、图像或视频接口。](https://docs.toapis.com/docs/cn/quickstart)
 

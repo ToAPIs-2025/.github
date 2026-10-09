@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://toapis.com/ja?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-header.png" alt="ToAPIs — Official AI API Gateway" width="100%"></a>
+<a href="https://toapis.com/ja?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-header-ja.png" alt="ToAPIs — 公式 AI API ゲートウェイ" width="100%"></a>
 
-[![利用を開始](https://img.shields.io/badge/%E5%88%A9%E7%94%A8%E3%82%92%E9%96%8B%E5%A7%8B-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![モデル一覧](https://img.shields.io/badge/%E3%83%A2%E3%83%87%E3%83%AB%E4%B8%80%E8%A6%A7-EXPLORE-D94E00?style=for-the-badge)](https://toapis.com/ja/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![API ドキュメント](https://img.shields.io/badge/API_%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88-READ-1B1B1B?style=for-the-badge)](https://docs.toapis.com/docs/ja/quickstart) [![公式サイト](https://img.shields.io/badge/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88-TOAPIS-FF8B3D?style=for-the-badge)](https://toapis.com/ja?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![料金](https://img.shields.io/badge/%E6%96%99%E9%87%91-COMPARE-242424?style=for-the-badge)](https://toapis.com/ja/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+[![無料で始める](https://img.shields.io/badge/%E7%84%A1%E6%96%99%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![モデル一覧](https://img.shields.io/badge/%E3%83%A2%E3%83%87%E3%83%AB%E4%B8%80%E8%A6%A7-EXPLORE-D94E00?style=for-the-badge)](https://toapis.com/ja/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![API ドキュメント](https://img.shields.io/badge/API_%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88-READ-1B1B1B?style=for-the-badge)](https://docs.toapis.com/docs/ja/quickstart) [![公式サイト](https://img.shields.io/badge/%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88-TOAPIS-FF8B3D?style=for-the-badge)](https://toapis.com/ja?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![料金](https://img.shields.io/badge/%E6%96%99%E9%87%91-COMPARE-242424?style=for-the-badge)](https://toapis.com/ja/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
 [![Website status](https://img.shields.io/website?url=https%3A%2F%2Ftoapis.com&label=status&color=FF6A00&style=flat-square)](https://toapis.com) [![Discord](https://img.shields.io/badge/chat-discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hvnszCrJ73) [![X](https://img.shields.io/badge/X-%40toapisai-111111?style=flat-square&logo=x)](https://x.com/toapisai) [![GitHub followers](https://img.shields.io/github/followers/ToAPIs-2025?style=flat-square&label=followers&color=FF6A00)](https://github.com/ToAPIs-2025)
 
@@ -33,13 +33,13 @@
 
 ## 明確な料金、従量課金
 
-<a href="https://toapis.com/ja/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-pricing.png" alt="ToAPIs pay-as-you-go pricing for text, image and video" width="100%"></a>
+<a href="https://toapis.com/ja/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-pricing-ja.png" alt="ToAPIs のテキスト・画像・動画の従量課金" width="100%"></a>
 
 月額契約は不要です。モデル選択前に最新の料金と課金単位を確認できます。料金はユーザー区分やキャンペーンにより変わる場合があります。 [→ 料金](https://toapis.com/ja/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
 <div align="center">
 
-[![利用を開始](https://img.shields.io/badge/%E5%88%A9%E7%94%A8%E3%82%92%E9%96%8B%E5%A7%8B-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![料金](https://img.shields.io/badge/%E6%96%99%E9%87%91-VIEW_LIVE_PRICES-1B1B1B?style=for-the-badge)](https://toapis.com/ja/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+[![無料で始める](https://img.shields.io/badge/%E7%84%A1%E6%96%99%E3%81%A7%E5%A7%8B%E3%82%81%E3%82%8B-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![料金](https://img.shields.io/badge/%E6%96%99%E9%87%91-VIEW_LIVE_PRICES-1B1B1B?style=for-the-badge)](https://toapis.com/ja/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
 </div>
 
@@ -47,7 +47,7 @@
 
 ## 開発を始める
 
-1. [API キーを作成します。](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+1. [API キーを作成します。](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 2. [モデルを選び、現在の料金を確認します。](https://toapis.com/ja/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 3. [クイックスタートに沿ってテキスト・画像・動画 API を利用します。](https://docs.toapis.com/docs/ja/quickstart)
 

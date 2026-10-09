@@ -2,7 +2,7 @@
 
 <a href="https://toapis.com/en?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org"><img src="./assets/toapis-header.png" alt="ToAPIs — Official AI API Gateway" width="100%"></a>
 
-[![GET STARTED](https://img.shields.io/badge/GET_STARTED-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![ALL MODELS](https://img.shields.io/badge/ALL_MODELS-EXPLORE-D94E00?style=for-the-badge)](https://toapis.com/en/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![API DOCS](https://img.shields.io/badge/API_DOCS-READ-1B1B1B?style=for-the-badge)](https://docs.toapis.com/docs/en/quickstart) [![WEBSITE](https://img.shields.io/badge/WEBSITE-TOAPIS-FF8B3D?style=for-the-badge)](https://toapis.com/en?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![PRICING](https://img.shields.io/badge/PRICING-COMPARE-242424?style=for-the-badge)](https://toapis.com/en/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+[![START FREE](https://img.shields.io/badge/START_FREE-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![ALL MODELS](https://img.shields.io/badge/ALL_MODELS-EXPLORE-D94E00?style=for-the-badge)](https://toapis.com/en/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![API DOCS](https://img.shields.io/badge/API_DOCS-READ-1B1B1B?style=for-the-badge)](https://docs.toapis.com/docs/en/quickstart) [![WEBSITE](https://img.shields.io/badge/WEBSITE-TOAPIS-FF8B3D?style=for-the-badge)](https://toapis.com/en?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![PRICING](https://img.shields.io/badge/PRICING-COMPARE-242424?style=for-the-badge)](https://toapis.com/en/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
 [![Website status](https://img.shields.io/website?url=https%3A%2F%2Ftoapis.com&label=status&color=FF6A00&style=flat-square)](https://toapis.com) [![Discord](https://img.shields.io/badge/chat-discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/hvnszCrJ73) [![X](https://img.shields.io/badge/X-%40toapisai-111111?style=flat-square&logo=x)](https://x.com/toapisai) [![GitHub followers](https://img.shields.io/github/followers/ToAPIs-2025?style=flat-square&label=followers&color=FF6A00)](https://github.com/ToAPIs-2025)
 
@@ -39,7 +39,7 @@ No monthly subscription. Compare live prices and billing units before selecting 
 
 <div align="center">
 
-[![GET STARTED](https://img.shields.io/badge/GET_STARTED-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![PRICING](https://img.shields.io/badge/PRICING-VIEW_LIVE_PRICES-1B1B1B?style=for-the-badge)](https://toapis.com/en/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+[![START FREE](https://img.shields.io/badge/START_FREE-API_KEY-FF6A00?style=for-the-badge)](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org) [![PRICING](https://img.shields.io/badge/PRICING-VIEW_LIVE_PRICES-1B1B1B?style=for-the-badge)](https://toapis.com/en/pricing?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 
 </div>
 
@@ -47,7 +47,7 @@ No monthly subscription. Compare live prices and billing units before selecting 
 
 ## Start building
 
-1. [Create an API key.](https://toapis.com/console/token?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
+1. [Create an API key.](https://toapis.com/dashboard/tokens?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 2. [Choose a model and review its current price.](https://toapis.com/en/market?utm_source=github&utm_medium=organic_profile&utm_campaign=gh_org)
 3. [Follow the quickstart for text, image or video.](https://docs.toapis.com/docs/en/quickstart)
 
