@@ -14,6 +14,22 @@
 
 </div>
 
+<!-- TOAPIS-MODELS-20261020 -->
+## 이미지·영상 가격 업데이트 · 2026-10-20
+
+해당 설정의 견적입니다. 실제 토큰 요금은 달라질 수 있습니다. 사례와 API 가격을 확인하세요.
+
+| Model | Preset quote |
+|---|---:|
+| gpt-image-2(VIP), low / 1K | $0.0019/image |
+| gpt-image-2.5-flare, high / 1K | $0.0225/image |
+| MiniMax-H3-Max-Turbo, 480P | $0.025/s |
+| Kling v3, std / no audio | $0.06/s |
+
+[31 image + 8 video presets, case costs and code](https://github.com/ToAPIs-2025/toapis-quickstart/tree/main/tutorials/model-support-2026-10-20)
+
+<!-- /TOAPIS-MODELS-20261020 -->
+
 ---
 
 ## 주요 모델을 하나의 엔드포인트에서

@@ -14,6 +14,22 @@
 
 </div>
 
+<!-- TOAPIS-MODELS-20261020 -->
+## Цены изображений и видео · 2026-10-20
+
+Цены для указанных настроек. Фактическая стоимость токенов меняется; примеры и API цен доступны по ссылке.
+
+| Model | Preset quote |
+|---|---:|
+| gpt-image-2(VIP), low / 1K | $0.0019/image |
+| gpt-image-2.5-flare, high / 1K | $0.0225/image |
+| MiniMax-H3-Max-Turbo, 480P | $0.025/s |
+| Kling v3, std / no audio | $0.06/s |
+
+[31 image + 8 video presets, case costs and code](https://github.com/ToAPIs-2025/toapis-quickstart/tree/main/tutorials/model-support-2026-10-20)
+
+<!-- /TOAPIS-MODELS-20261020 -->
+
 ---
 
 ## Ведущие модели через единый шлюз

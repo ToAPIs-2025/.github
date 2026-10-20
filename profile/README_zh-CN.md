@@ -16,6 +16,22 @@
 
 </div>
 
+<!-- TOAPIS-MODELS-20261020 -->
+## 图片／视频价格更新 · 2026-10-20
+
+以下为对应档位报价；Token实际费用会波动，真实案例及同Key查价见下方链接。
+
+| Model | Preset quote |
+|---|---:|
+| gpt-image-2(VIP), low / 1K | $0.0019/image |
+| gpt-image-2.5-flare, high / 1K | $0.0225/image |
+| MiniMax-H3-Max-Turbo, 480P | $0.025/s |
+| Kling v3, std / no audio | $0.06/s |
+
+[31 image + 8 video presets, case costs and code](https://github.com/ToAPIs-2025/toapis-quickstart/tree/main/tutorials/model-support-2026-10-20)
+
+<!-- /TOAPIS-MODELS-20261020 -->
+
 ---
 
 ## 主流模型，统一入口
